@@ -12,3 +12,4 @@ obj/
 *.mdf
 *.ldf
 *.bak
+App.config
